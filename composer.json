@@ -1,0 +1,16 @@
+{
+    "name": "hosein/aboutus",
+    "description": "this package for about us with personal",
+    "authors": [
+        {
+            "name": "HosseinDehghan",
+            "email": "h.dehghan72@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hosein\\Aboutus\\": "src/"
+        }
+    },
+    "require": {}
+}
